@@ -74,7 +74,7 @@ Background dari **SMKN 1 Sumedang** jurusan Teknik Elektronika — jadi nyambung
 
 - 📧 sandyfauzia09@gmail.com
 - 💬 WhatsApp: +62 812-9571-0325
-- 🌐 Portfolio: [sandzh.vercel.app](web-portfolio-sandzh.vercel.app)
+- 🌐 Portfolio: [sandzh.vercel.app](https://web-portfolio-sandzh.vercel.app/)
 
 ---
 
