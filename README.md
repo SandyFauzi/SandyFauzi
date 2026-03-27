@@ -1,55 +1,83 @@
-````markdown
-# 💻 System Terminal: [Sandy Fauzi Amrulloh]
+<div align="center">
 
-> "Physics by day, Creative Tech by night."
+# ⠀Sandy Fauzi Amrulloh
 
-```text
-[SYSTEM] Initializing user profile...
-[OK] Profile loaded successfully.
+**Video Editor · Graphic Designer · 3D VFX Artist · Physics Student**
 
-NAME    : Sandy Fauzi Amrulloh (Sandzh)
-BASE    : Sumedang, West Java, ID
-ROLE    : Video Editor · Graphic Designer · 3D VFX Artist
-EDU     : Physics @ UNPAD | Electronic Engineering @ SMKN 1 Sumedang
-STATUS  : Available for freelance
-````
+[![Instagram](https://img.shields.io/badge/@sandzh__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sandzh_)
+[![GitHub](https://img.shields.io/badge/SandyFauzi-181717?style=flat&logo=github&logoColor=white)](https://github.com/SandyFauzi)
+[![WakaTime](https://img.shields.io/badge/WakaTime-tracked-blue?style=flat&logo=wakatime)](https://wakatime.com/@sandzh)
 
-### 🌐 Access Main Node (Portfolio)
+</div>
 
-Saya baru saja membangun ulang markas digital saya (v2) menggunakan **Next.js 14**, **Supabase**, dan **Tailwind CSS** dengan *custom aesthetic* **Retro IBM Noir**.
+---
 
-👉 **[\>\>\> ENTER THE TERMINAL (Lihat Portofolio) \<\<\<](https://web-portfolio-sandzh.vercel.app/)**
------
+### 👋 Tentang Saya
 
-### ⚙️ Equipped Weapons & Tech Stack
+Mahasiswa **Fisika UNPAD** (2024–) yang juga aktif sebagai freelance video editor dan graphic designer.
+Background dari **SMKN 1 Sumedang** jurusan Teknik Elektronika — jadi nyambung antara sains, teknik, dan kreatif.
 
-Sehari-hari saya menggabungkan logika eksak dan kreativitas visual. Ini adalah senjata utama yang sering saya gunakan:
+---
 
-  * **🎬 Creative Engine:** Premiere Pro, After Effects, Illustrator, Photoshop, Blender (3D)
-  * **💻 Tech & Dev:** VS Code, Python, Arduino, Next.js, Supabase, Tailwind CSS
-  * **🔬 Core Knowledge:** Physics, Mathematics, Electronic Engineering
+### 🎨 Skills Kreatif
 
------
+| Tool | Level |
+|------|-------|
+| Video Editing (Premiere Pro, AE) | ████████████ 100% |
+| 3D & VFX (Blender) | ██████████░░ 90% |
+| Graphic Design (Illustrator, Ps) | ██████████░░ 85% |
+| Videography & Photography | ██████████░░ 87% |
 
-### 📡 Establish Connection
+---
 
-Mencari *video editor*, *graphic designer*, atau butuh partner kolaborasi untuk *project* kreatif? Ping saya di salah satu *channel* berikut:
+### ⚡ Skills Teknikal
 
-  - ✉️ **Email:** [sandyfauzia09@gmail.com](mailto:sandyfauzia09@gmail.com)
-  - 📸 **Instagram:** [@sandzh\_](https://instagram.com/sandzh_)
-  - 💬 **WhatsApp:** [+62 812-9571-0325](https://www.google.com/search?q=http://wa.me/6281295710325)
+| Bidang | Level |
+|--------|-------|
+| Electronic Engineering | ██████████░░ 91% |
+| Programming (Python, Arduino) | █████████░░░ 80% |
+| Mathematics | ██████████░░ 90% |
+| Physics | ██████████░░ 90% |
 
------
+---
 
-```text
-[SYSTEM] End of file.
-[SYSTEM] Awaiting command...
-_
+### 🛠️ Tools & Software
+
+`Premiere Pro` `After Effects` `Illustrator` `Photoshop` `Blender`
+`VS Code` `Python` `Arduino` `Next.js` `Supabase`
+
+---
+
+### 📚 Pendidikan
+```
+2024 – skrg  │ Universitas Padjadjaran     │ S1 Fisika
+2021 – 2024  │ SMKN 1 Sumedang             │ Teknik Elektronika  
+2018 – 2021  │ SMPN 1 Sumedang
+2012 – 2018  │ SD Sukamaju
 ```
 
-```
+---
 
-### Kenapa Desain Ini Cocok Buat Anda?
-1.  **Format Code Block (` 
-http://googleusercontent.com/immersive_entry_chip/0
-```
+### 📊 Coding Stats
+
+<!--START_SECTION:waka-->
+> Auto-updated via WakaTime
+<!--END_SECTION:waka-->
+
+![Sandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandyFauzi&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a08&title_color=f0ede6&text_color=666660&icon_color=f0ede6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyFauzi&layout=compact&theme=dark&hide_border=true&bg_color=0a0a08&title_color=f0ede6&text_color=666660)
+
+---
+
+### 📬 Hubungi Saya
+
+- 📧 sandyfauzia09@gmail.com
+- 💬 WhatsApp: +62 812-9571-0325
+- 🌐 Portfolio: [sandzh.vercel.app](https://sandzh.vercel.app)
+
+---
+
+<div align="center">
+<sub>Sumedang, Indonesia · Fisika UNPAD · Creative Tech</sub>
+</div>
