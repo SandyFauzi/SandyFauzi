@@ -18,8 +18,7 @@ STATUS  : Available for freelance
 
 Saya baru saja membangun ulang markas digital saya (v2) menggunakan **Next.js 14**, **Supabase**, dan **Tailwind CSS** dengan *custom aesthetic* **Retro IBM Noir**.
 
-👉 **[\>\>\> ENTER THE TERMINAL (Lihat Portofolio) \<\<\<]([https://www.google.com/search?q=https://domain-kamu.com](https://web-portfolio-sandzh.vercel.app/))**
-
+👉 **[\>\>\> ENTER THE TERMINAL (Lihat Portofolio) \<\<\<](https://web-portfolio-sandzh.vercel.app/)**
 -----
 
 ### ⚙️ Equipped Weapons & Tech Stack
